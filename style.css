@@ -39,6 +39,13 @@ textarea{min-height:110px;resize:vertical}button{border:0;background:var(--green
     padding: 8px 5px;
     border: none;
 }
+.image{
+	flex-shink:0;
+	border-radius:15px;
+	height:500px;
+	width:400px;
+}
+
 .img{
 	width: 1000px;
 	height: 550px;
